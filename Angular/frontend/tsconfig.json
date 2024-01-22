@@ -22,7 +22,9 @@
     "lib": [
       "ES2022",
       "dom"
-    ]
+    ],
+	"strictPropertyInitialization": false,
+	"noPropertyAccessFromIndexSignature": false,
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
